@@ -9,3 +9,6 @@ def sub(a,b):
 
 def div(a,b):
     return a/b
+
+def residual2(a,b):
+    return a//b
